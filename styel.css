@@ -1,0 +1,16 @@
+*{
+    background-color: blueviolet;
+}
+body{
+    background-color: aqua
+}
+nav{
+    
+}
+.link{
+    float: right;
+}
+.h1{
+    text-align: center;
+    margin-top: 30px;
+}
