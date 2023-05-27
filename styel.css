@@ -2,7 +2,7 @@
     background-color: blueviolet;
 }
 body{
-    background-color: aqua
+    
 }
 nav{
     
@@ -13,4 +13,9 @@ nav{
 .h1{
     text-align: center;
     margin-top: 30px;
+}
+.btn{
+   
+margin-left:640px;
+    
 }
